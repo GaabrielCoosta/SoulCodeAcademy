@@ -46,4 +46,15 @@ e podermos definir os atributos como relevantes ou não para nossa análise.
   
 #### DISTRUIBUIÇÕES DE FREQUÊNCIA
 
+Frequência de demissão por nivel hierarquico |   |   |   |  
+-- | -- | -- | -- | --
+Nivel | Quantidade | Quantidade acum | % Quantidade | % Quantidade acum
+1 | 143 | 143 | 60,34% | 60,34%
+2 | 52 | 195 | 21,94% | 82,28%
+3 | 32 | 227 | 13,50% | 95,78%
+4 | 5 | 232 | 2,11% | 97,89%
+5 | 5 | 237 | 2,11% | 100,00%
+Total | 237 |   | 100,00% |  
+
+- Ao total, 237 funcionários pediram demissão. 60,34% possuiam nivel 1 e 21,94% nível 2, sendo eles os níveis mais baixos de uma escala de 1 à 5. A soma dos dois níveis representam 82,28% dos funcionários desgastados.
 
