@@ -1,5 +1,4 @@
-# SoulCode - Data Analyst
-*Didactic material, containing content covered throughout my trajectory at the SoulCodeAcademy bootcamp!*
+# HR Data Analysis
 
 # Project Developers
   - Aska VictoriaVer
