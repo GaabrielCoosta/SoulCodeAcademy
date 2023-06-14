@@ -58,3 +58,13 @@ Total | 237 |   | 100,00% |  
 
 - Ao total, 237 funcionários pediram demissão. 60,34% possuiam nivel 1 e 21,94% nível 2, sendo eles os níveis mais baixos de uma escala de 1 à 5. A soma dos dois níveis representam 82,28% dos funcionários desgastados.
 
+Frequência de demissão por idade |   |   |   |  
+-- | -- | -- | -- | --
+Idade | Quantidade | Quantidade acum | % Quantidade | % Quantidade acum
+18 - 25 | 44 | 44 | 18,57% | 18,57%
+26 - 36 | 122 | 166 | 51,48% | 70,04%
+37 - 45 | 37 | 203 | 15,61% | 85,65%
+46 - 58 | 34 | 237 | 14,35% | 100,00%
+Total | 237 |   | 100,00% |  
+
+- Através dessa análise obtivemos o dado que **70,04%** dos funcionários desgastados possuíam entre **18 e 36 anos**, e que **51,48%** possuíam entre **26 e 36 anos de idade**.
