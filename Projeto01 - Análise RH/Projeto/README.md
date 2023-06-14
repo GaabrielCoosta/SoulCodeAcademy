@@ -56,7 +56,7 @@ Nivel | Quantidade | Quantidade acum | % Quantidade | % Quantidade acum
 5 | 5 | 237 | 2,11% | 100,00%
 Total | 237 |   | 100,00% |  
 
-- Ao total, 237 funcionários pediram demissão. 60,34% possuiam nivel 1 e 21,94% nível 2, sendo eles os níveis mais baixos de uma escala de 1 à 5. A soma dos dois níveis representam 82,28% dos funcionários desgastados.
+- Ao total, **237** funcionários pediram demissão. **60,34%** possuiam **nivel 1** e **21,94% nível 2**, sendo eles os níveis mais baixos de uma escala de **1 à 5**. A soma dos dois níveis representam **82,28%** dos funcionários desgastados.
 
 Frequência de demissão por idade |   |   |   |  
 -- | -- | -- | -- | --
