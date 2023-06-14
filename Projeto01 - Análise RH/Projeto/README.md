@@ -68,3 +68,13 @@ Idade | Quantidade | Quantidade acum | % Quantidade | % Quantidade acum
 Total | 237 |   | 100,00% |  
 
 - Através dessa análise obtivemos o dado que **70,04%** dos funcionários desgastados possuíam entre **18 e 36 anos**, e que **51,48%** possuíam entre **26 e 36 anos de idade**.
+
+Frequencia de distribuição por departamento |   |   |  
+-- | -- | -- | --
+Departamento | quantidade | quantidade acum | % quantidade | % quantidade acum
+Pesquisa e Desenvolvimento | 133 | 133 | 56,12% | 56,12%
+Vendas | 92 | 225 | 38,82% | 94,94%
+Recursos HumaNãos | 12 | 237 | 5,06% | 100,00%
+TOTAL | 237 |   | 100,00% |  
+
+- A soma dos funcionários desgastados dos departamentos de Pesquisa e Desenvolvimento e Vendas, representam **94,94%** do total das demissões, sendo **52,12%** do departamento de Pesquisa e Desenvolvimento e **38,82%** do departamento de vendas.
