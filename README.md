@@ -1,7 +1,7 @@
 # SoulCode - Data Analyst
 *Didactic material, containing content covered throughout my trajectory at the SoulCodeAcademy bootcamp!*
 
-# Employees
+# Project Developers
   - Aska VictoriaVer
   - Duda Klug
 
