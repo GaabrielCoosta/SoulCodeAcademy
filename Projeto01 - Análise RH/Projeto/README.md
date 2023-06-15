@@ -46,35 +46,10 @@ e podermos definir os atributos como relevantes ou não para nossa análise.
   
 #### DISTRUIBUIÇÕES DE FREQUÊNCIA
 
-Frequência de demissão por nivel hierarquico |   |   |   |  
--- | -- | -- | -- | --
-Nivel | Quantidade | Quantidade acum | % Quantidade | % Quantidade acum
-1 | 143 | 143 | 60,34% | 60,34%
-2 | 52 | 195 | 21,94% | 82,28%
-3 | 32 | 227 | 13,50% | 95,78%
-4 | 5 | 232 | 2,11% | 97,89%
-5 | 5 | 237 | 2,11% | 100,00%
-Total | 237 |   | 100,00% |  
+  - CONTINUAÇÃO DO PROJETO NO GOOGLE COLAB
 
-- Ao total, **237** funcionários pediram demissão. **60,34%** possuiam **nivel 1** e **21,94% nível 2**, sendo eles os níveis mais baixos de uma escala de **1 à 5**. A soma dos dois níveis representam **82,28%** dos funcionários desgastados.
+### GRÁFICOS
 
-Frequência de demissão por idade |   |   |   |  
--- | -- | -- | -- | --
-Idade | Quantidade | Quantidade acum | % Quantidade | % Quantidade acum
-18 - 25 | 44 | 44 | 18,57% | 18,57%
-26 - 36 | 122 | 166 | 51,48% | 70,04%
-37 - 45 | 37 | 203 | 15,61% | 85,65%
-46 - 58 | 34 | 237 | 14,35% | 100,00%
-Total | 237 |   | 100,00% |  
+  - CONTINUAÇÃO DO PROJETO NO GOOGLE COLAB
 
-- Através dessa análise obtivemos o dado que **70,04%** dos funcionários desgastados possuíam entre **18 e 36 anos**, e que **51,48%** possuíam entre **26 e 36 anos de idade**.
-
-Frequencia de distribuição por departamento |   |   |  
--- | -- | -- | --
-Departamento | quantidade | quantidade acum | % quantidade | % quantidade acum
-Pesquisa e Desenvolvimento | 133 | 133 | 56,12% | 56,12%
-Vendas | 92 | 225 | 38,82% | 94,94%
-Recursos HumaNãos | 12 | 237 | 5,06% | 100,00%
-TOTAL | 237 |   | 100,00% |  
-
-- A soma dos funcionários desgastados dos departamentos de Pesquisa e Desenvolvimento e Vendas, representam **94,94%** do total das demissões, sendo **52,12%** do departamento de Pesquisa e Desenvolvimento e **38,82%** do departamento de vendas.
+### CONCLUSÃO
