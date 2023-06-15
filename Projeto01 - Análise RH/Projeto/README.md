@@ -47,9 +47,19 @@ e podermos definir os atributos como relevantes ou não para nossa análise.
 #### DISTRUIBUIÇÕES DE FREQUÊNCIA
 
   - CONTINUAÇÃO DO PROJETO NO GOOGLE COLAB
+  ```bash
+# OPEN THE PROJECT
+'Projeto_01.ipynb'
+```
+
 
 ### GRÁFICOS
 
   - CONTINUAÇÃO DO PROJETO NO GOOGLE COLAB
+  ```bash
+# OPEN THE PROJECT
+'Projeto_01.ipynb'
+```
 
 ### CONCLUSÃO
+........
