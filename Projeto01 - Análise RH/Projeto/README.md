@@ -49,7 +49,8 @@ and we can define the attributes as relevant or not for our analysis.
   - *ALL CALCULATIONS WERE PERFORMED IN PYTHON USING THE GOOGLE COLAB TOOL*
   ```bash
 # DOWNLOAD THE DATABASE FOR BETTER UNDERSTANDING
-'base_rh(1).csv'
+'base_rh.csv'
+'Dicionário_base.csv''
 
 # OPEN THE PROJECT .ipynb
 'Projeto_01.ipynb'
