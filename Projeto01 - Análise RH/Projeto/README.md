@@ -1,63 +1,57 @@
-# Ciclo de vida do projeto!
+# Project Lifecycle!
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GaabrielCoosta/Changelle_HandTalk/blob/main/LICENSE)
 
 ![Design sem nome (2)](https://github.com/GaabrielCoosta/SoulCode/assets/108695592/e93df3c2-3724-40d9-840c-451c683d9229)
 
-### ENTENDENDO O PROBLEMA
-**Informação obtida:**
-- *“A empresa XPTO está preocupada com a retenção de talentos na companhia [...] Os funcionários pediram demissão e saíram da empresa por se sentirem desgastados com a XPTO"*
+### UNDERSTANDING THE PROBLEM
+**Information obtained:**
+- *"The XPTO company is concerned with retaining talent in the company [...] The employees resigned and left the company because they felt worn out with the XPTO"*
 
-#### 💎 Técnica dos 5W-s
+#### 💎 5W-s Technique
 
-**📌 Porque é importante essa análise para o negócio?**
+**📌 Why is this analysis important for the business?**
 
-- Para que possamos entender o que está causando o desgaste dos funcionários e consequentemente diminuir os pedidos de demissão
+- So that we can understand what is causing employee burnout and consequently reduce resignations
 
-**📌 Quem iremos analisar?**
+**📌 Who will we review?**
 
-- Iremos analisar os funcionários da empresa XPTO
+- We will analyze the employees of the company XPTO
 
-**📌 O que iremos analisar?**
+**📌 What will we review?**
 
-- O possível motivo de desgaste dos funcionários, que pediram demissão
+- The possible reason for burnout of employees, who resigned
 
-**📌 Qual período será considerado para as análises?**
+**📌 What period will be considered for the analyzes?**
 
-- Será considerado o periódo de vínculo do funcionário com a empresa XPTO
+- The period of employment of the employee with the XPTO company will be considered
 
-**📌 Onde?**
+**📌 Where?**
 
-- Especificamente dentro da empresa XPTO através dos dados fornecidos pelo RH da empresa
+- Specifically within the XPTO company through the data provided by the company's HR
 
-### COLETA DE DADOS 
+### DATA COLLECT
 
-- Análise feita a partir de **dados internos e secundários**
+- Analysis made from **internal and secondary data**
 
-### PROCESSAMENTOS DE DADOS
+### DATA PROCESSING
 
-- Organização da planilha "base_rh", fornecida pela empresa XPTO, colocando em ordem os atributos por coerência e relação, separando os dados pessoais de cada funcionário dos dados relacionado à empresa
+- Organization of the "base_rh" worksheet, provided by the company XPTO, putting the attributes in order by consistency and relationship, separating the personal data of each employee from the data related to the company
 
-### EXPLORACAÇÃO DE DADOS 
+### DATA EXPLORATION
 
-- Nessa etapa, realizamos uma análise exploratória dos dados, utilizando apenas as ferramentas Google Planilhas e Excel. 
-Primeiramente, fizemos cálculos de correlação de todos os atributos com o atributo “desgaste” para termos uma melhor visualização,
-e podermos definir os atributos como relevantes ou não para nossa análise. 
-  
-#### DISTRUIBUIÇÕES DE FREQUÊNCIA
+- At this stage, we performed an exploratory analysis of the data, using only Google Sheets and Excel tools.
+First, we performed correlation calculations for all attributes with the “wear and tear” attribute to have a better visualization,
+and we can define the attributes as relevant or not for our analysis.
 
-  - CONTINUAÇÃO DO PROJETO NO GOOGLE COLAB
+#### FREQUENCY DISTRIBUTIONS AND GRAPHICS
+
+  - *ALL CALCULATIONS WERE PERFORMED IN PYTHON USING THE GOOGLE COLAB TOOL*
   ```bash
-# OPEN THE PROJECT
-'Projeto_01.ipynb'
-```
+# DOWNLOAD THE DATABASE FOR BETTER UNDERSTANDING
+'base_rh(1).csv'
 
-
-### GRÁFICOS
-
-  - CONTINUAÇÃO DO PROJETO NO GOOGLE COLAB
-  ```bash
-# OPEN THE PROJECT
+# OPEN THE PROJECT .ipynb
 'Projeto_01.ipynb'
 ```
 
