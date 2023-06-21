@@ -4,6 +4,8 @@
 ![NPM](https://img.shields.io/static/v1?label=Python&message=3.10&color=<COLOR>&logo=python)
 
  # AD2 Class Activity - Python
+
+![Design sem nome (2)](https://github.com/GaabrielCoosta/SoulCode/assets/108695592/e93df3c2-3724-40d9-840c-451c683d9229)
  
 - *School: SoulCode Academy*
 - *Course: Data Analyst Bootcamp - Martech - AD2*
