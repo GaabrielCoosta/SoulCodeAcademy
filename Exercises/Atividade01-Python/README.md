@@ -32,7 +32,7 @@
 
 #Attention
 - For the resolutions of the questions to work correctly, it is necessary to
-- run the library and 'function' import cells first!
+run the library and 'function' import cells first!
 ```
 
 
