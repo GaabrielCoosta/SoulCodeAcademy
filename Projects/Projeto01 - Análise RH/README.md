@@ -1,4 +1,4 @@
-![PELATIHAN-Manajemen-Proyek-Project-Management](https://github.com/GaabrielCoosta/SoulCodeAcademy/assets/108695592/e0af00ce-ca79-400f-9fc7-1ed3757f87bc)
+![projects](https://github.com/GaabrielCoosta/SoulCodeAcademy/assets/108695592/c5a5df1f-7002-44b6-a1f3-efb4197ae6c7)
 
 ## :mortar_board: AD2 Class Data Analysis
 
