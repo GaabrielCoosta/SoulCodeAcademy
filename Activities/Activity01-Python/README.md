@@ -20,10 +20,10 @@
 ## Running Script
 - Python 3+ and Google Colaboratory
 
-
+[Python_Activities_AD2](https://colab.research.google.com/drive/1d9HYPFO2nQ4GBHsJTZ3j-NQn01Kfyx1x?usp=sharing)
 ```bash
 # Access the script through the file:
- "Python_Activities_AD2.ipynb"
+ "Python_Activities_AD2.ipynb" or via the hyperlink above
 
 
 # Carefully read the project instructions
