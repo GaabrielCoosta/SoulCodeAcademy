@@ -1,34 +1,33 @@
 # Project Lifecycle!
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GaabrielCoosta/Changelle_HandTalk/blob/main/LICENSE)
-
-![Design sem nome (2)](https://github.com/GaabrielCoosta/SoulCode/assets/108695592/e93df3c2-3724-40d9-840c-451c683d9229)
-
 ### UNDERSTANDING THE PROBLEM
-**Information obtained:**
+
+**INFORMATION OBTAINED:**
 - *"The XPTO company is concerned with retaining talent in the company [...] The employees resigned and left the company because they felt worn out with the XPTO"*
+<br>
 
-#### 💎 5W-s Technique
+### 5W-s TECHNIQUE
 
-**📌 Why is this analysis important for the business?**
+**:heavy_minus_sign: Why is this analysis important for the business?**
 
-- So that we can understand what is causing employee burnout and consequently reduce resignations
+- *So that we can understand what is causing employee burnout and consequently reduce resignations*
 
-**📌 Who will we review?**
+**:heavy_minus_sign: Who will we review?**
 
-- We will analyze the employees of the company XPTO
+- *We will analyze the employees of the company XPTO*
 
-**📌 What will we review?**
+**:heavy_minus_sign: What will we review?**
 
-- The possible reason for burnout of employees, who resigned
+- *The possible reason for burnout of employees, who resigned*
 
-**📌 What period will be considered for the analyzes?**
+**:heavy_minus_sign: What period will be considered for the analyzes?**
 
-- The period of employment of the employee with the XPTO company will be considered
+- *The period of employment of the employee with the XPTO company will be considered*
 
-**📌 Where?**
+**:heavy_minus_sign: Where?**
 
-- Specifically within the XPTO company through the data provided by the company's HR
+- *Specifically within the XPTO company through the data provided by the company's RH*
+<br>
 
 ### DATA COLLECT
 
@@ -44,7 +43,7 @@
 First, we performed correlation calculations for all attributes with the “wear and tear” attribute to have a better visualization,
 and we can define the attributes as relevant or not for our analysis.
 
-#### FREQUENCY DISTRIBUTIONS AND GRAPHICS
+### FREQUENCY DISTRIBUTIONS AND GRAPHICS
 
   - *ALL CALCULATIONS WERE PERFORMED IN PYTHON USING THE GOOGLE COLAB TOOL*
   ```bash
