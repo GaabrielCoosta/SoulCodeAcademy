@@ -1,4 +1,6 @@
-## AD2 Class Activity 
+![PELATIHAN-Manajemen-Proyek-Project-Management](https://github.com/GaabrielCoosta/SoulCodeAcademy/assets/108695592/e0af00ce-ca79-400f-9fc7-1ed3757f87bc)
+
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GaabrielCoosta/Changelle_HandTalk/blob/main/LICENSE)
 ![NPM](https://img.shields.io/static/v1?label=Python&message=3.10&color=<COLOR>&logo=python)
 
