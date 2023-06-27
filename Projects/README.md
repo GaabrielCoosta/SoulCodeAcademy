@@ -1,6 +1,3 @@
+![projects](https://github.com/GaabrielCoosta/SoulCodeAcademy/assets/108695592/c5a5df1f-7002-44b6-a1f3-efb4197ae6c7)
 
-
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GaabrielCoosta/Changelle_HandTalk/blob/main/LICENSE)
-
-![Design sem nome (2)](https://github.com/GaabrielCoosta/SoulCode/assets/108695592/e93df3c2-3724-40d9-840c-451c683d9229)
-
+*Directory of projects developed throughout the course*
