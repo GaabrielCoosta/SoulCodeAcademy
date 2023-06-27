@@ -1,14 +1,30 @@
-# SoulCode - Data Analyst
-*Didactic material, containing content covered throughout my trajectory at the SoulCodeAcademy bootcamp!*
+![bannermartech_1](https://github.com/GaabrielCoosta/SoulCodeAcademy/assets/108695592/1cda529f-3125-4058-a8e6-b2674bca7b04)
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GaabrielCoosta/Changelle_HandTalk/blob/main/LICENSE)
+*Didactic material, containing covered content, and projects developed throughout my trajectory at the SoulCode Academy bootcamp!*
 
-![Design sem nome (2)](https://github.com/GaabrielCoosta/SoulCode/assets/108695592/e93df3c2-3724-40d9-840c-451c683d9229)
+# :mortar_board: AD2 Class Data Analysis
 
-# Projeto Turma AD2 
-- Escola: SoulCode Academy
-- Curso: Bootcamp Analista de Dados Martech - AD2
-- Período: 12 semanas
-- Professores: Douglas Ribeiro e Franciene Rodrigues
-- Aluno: Gabriel Costa Andrade
+- School: [SoulCode Academy](https://soulcode.com/)
+- Course: Bootcamp Analista de Dados Martech - AD2
+- Duration of the course: 12 semanas
+- Teachers: [Douglas Ribeiro](https://www.linkedin.com/in/douglas-almeida-ribeiro/) e [Franciene Rodrigues](https://www.linkedin.com/in/francianerod/)
+- Student: [Gabriel Costa Andrade](https://www.linkedin.com/in/gabriel-costa-andrade-590a17227/)
+  
+### MARTECH CAREER
+- *The Data Analyst is responsible for analyzing, interpreting, cataloging and verifying how data can be used to support and support decision-making within organizations*
+<br>
+
+### BOOTCAMP CONTENTS
+
+  **MARKETING**
+  <br>:heavy_minus_sign: Concepts: CRM, Ads Data Source, SEO, Analytics, and KPIs in Salesforce Marketing Cloud;
+  
+  **CLOUD**
+  <br>:heavy_minus_sign: Introduction to cloud computing, OnPremisse and Cloud environments, Cloud Storage and user management;
+  
+  **PYTHON & DATA**
+  <br>:heavy_minus_sign: Python language and database fundamentals, including Colab, Pandas and Pyspark;
+  
+  **INSIGHTS**
+  <br>:heavy_minus_sign: From basic statistics and data storytelling, to KPIs and data visualization in Looker Studio and         Power BI
 
