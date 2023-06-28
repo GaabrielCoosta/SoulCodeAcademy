@@ -48,3 +48,22 @@ In this project, the student must individually build a script in Python that rec
 - Error handling for user inputs;
 - Any other code improvements that are not contrary to mandatory requirements;
 
+### Project resolution available in the file, in that same folder "Projeto02 - Python":
+- Requirements: Python 3+ and Colab
+```bash
+#File: 
+"Projeto02_Fundamentos_Python.ipynb"
+
+#Options for running the script:
+- Clone this repository and run it with your preferred IDE
+- Run the script from the link below
+```
+- *Link:*
+[Projeto02_Python](https://colab.research.google.com/drive/1uTDc1ksBklwluALeCJsT7YVwWEY5iGjE?usp=sharing)
+
+
+
+
+
+
+
