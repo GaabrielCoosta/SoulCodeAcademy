@@ -1,4 +1,4 @@
-![bannermartech_1](https://github.com/GaabrielCoosta/SoulCodeAcademy/assets/108695592/1cda529f-3125-4058-a8e6-b2674bca7b04)
+![projects](https://github.com/GaabrielCoosta/SoulCodeAcademy/assets/108695592/c5a5df1f-7002-44b6-a1f3-efb4197ae6c7)
 
 *Didactic material, containing covered content, and projects developed throughout my trajectory at the SoulCode Academy bootcamp!*
 <br>
