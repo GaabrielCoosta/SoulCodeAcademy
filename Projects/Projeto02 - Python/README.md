@@ -1,6 +1,4 @@
 ![projects](https://github.com/GaabrielCoosta/SoulCodeAcademy/assets/108695592/c5a5df1f-7002-44b6-a1f3-efb4197ae6c7)
-
-*Didactic material, containing covered content, and projects developed throughout my trajectory at the SoulCode Academy bootcamp!*
 <br>
 <br>
 
