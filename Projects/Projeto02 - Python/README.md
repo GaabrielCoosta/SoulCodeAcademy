@@ -50,7 +50,7 @@ In this project, the student must individually build a script in Python that rec
 - Requirements: Python 3+ and Colab
 ```bash
 #File: 
-"Projeto02_Fundamentos_Python.ipynb"
+"Project_.ipynb"
 
 #Options for running the script:
 - Clone this repository and run it with your preferred IDE
