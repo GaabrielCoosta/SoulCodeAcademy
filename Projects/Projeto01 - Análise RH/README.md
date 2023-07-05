@@ -9,7 +9,8 @@
 - Student: [Gabriel Costa Andrade](https://www.linkedin.com/in/gabriel-costa-andrade-590a17227/)
 <br>
 
-## Project - Analyzing an HR database
+## PROJECT: **XPTO company data analysis**
+
 
 **PROJECT DEVELOPERS**
   - Aska Pereira
