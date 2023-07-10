@@ -14,7 +14,8 @@
 
 ## Project - Airbnb
 
-![AirbnbAmsterdam](https://github.com/GaabrielCoosta/SoulCodeAcademy/assets/108695592/e04067a2-879d-4a62-8aa0-125514565d1b)
+![AirbnbAmsterdam](https://github.com/GaabrielCoosta/SoulCodeAcademy/assets/108695592/f3fd582c-bbdc-4148-8a8b-5c46808f15d6)
+
 
 - Este conjunto de dados fornece uma visão abrangente dos preços do Airbnb em algumas das cidades europeias mais populares. Cada listagem é avaliada quanto a várias características, como tipos de quartos, classificações de limpeza e satisfação, número de quartos, distância do centro da cidade e muito mais, para obter uma compreensão detalhada dos preços do Airbnb tanto durante a semana quanto nos fins de semana. Utilizando métodos econométricos espaciais, analisamos e identificamos os determinantes dos preços do Airbnb nessas cidades.  
 
