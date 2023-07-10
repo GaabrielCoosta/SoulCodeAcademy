@@ -6,47 +6,41 @@
 
 - School: [SoulCode Academy](https://soulcode.com/)
 - Course: Bootcamp Analista de Dados Martech - AD2
-- Period: Week 4
-- Teachers: [Douglas Ribeiro](https://www.linkedin.com/in/douglas-almeida-ribeiro/) e [Franciene Rodrigues](https://www.linkedin.com/in/francianerod/)
+- Period: Week 6
+- Teachers: [Franciene Rodrigues](https://www.linkedin.com/in/francianerod/) and  [Jonathas Cardeiro](https://www.linkedin.com/in/sahtcarneiro/)
 - Student: [Gabriel Costa Andrade](https://www.linkedin.com/in/gabriel-costa-andrade-590a17227/)
 <br>
 
-## Project - Python Fundamentals
-This project has as main objective to provide the student with the verification of the main technical skills on Python fundamentals learned in the fourth week of the Data Analysis Bootcamp in the AD2 class. The proposal combines fundamental concepts of Python with the theme of the first week of Bootcamp (exploratory data analysis);
+## Project - Airbnb
+- Este conjunto de dados fornece uma visão abrangente dos preços do Airbnb em algumas das cidades europeias mais populares. Cada listagem é avaliada quanto a várias características, como tipos de quartos, classificações de limpeza e satisfação, número de quartos, distância do centro da cidade e muito mais, para obter uma compreensão detalhada dos preços do Airbnb tanto durante a semana quanto nos fins de semana. Utilizando métodos econométricos espaciais, analisamos e identificamos os determinantes dos preços do Airbnb nessas cidades.  
 
-In this project, the student must individually build a script in Python that receives from the user two variables of values ​​referring to quantitative variables and returns the following measures of descriptive statistics for each informed variable as a response:
-- Arithmetic average;
-- Median;
-- Fashion (if any);
-- Sampling variance
-- Sample Standard Deviation
-- Total amplitude;
-- Q1 (first quartile);
-- Q3 (third quartile);
-- AIQ (interquartile range);
-- Lower Limit (Li from the boxplot)
-- Upper Limit (Ls of the boxplot)
-- Identifier and classification of possible outliers in the sample;
-- Pearson(r) correlation coefficient;
-- Coefficient of determination (r squared)
-- Coefficient a or alpha of the simple linear regression equation for the two variables chosen by the user;
-- Coefficient b or beta of the simple linear regression equation for the two variables chosen by the user;
-  
-### Mandatory Requirements:
-- The program must contain all the descriptive statistics measures requested in the previous block;
- 
-### The program must contain at least the following structures:
-- 1 - (if, elif and else);
-- 1 - (repeating For loop);
-- 1 - (while loop);
+## Requisitos:
+[Estratégia Geral de Análise de Dados](https://classroom.google.com/c/NTUzOTc2NjM4NjA0/a/NTU0NDk1OTIzMDA0/details)
 
-**The program cannot incorporate modules and frameworks not studied so far in the bootcamp;**
+### Nível - Tratamento e Análise
+- Verificar todos os passos da estratégia geral de análise de dados;
+- Executar o que for necessário;
+- Todos os passos devem ser comentados;
+- Realizar no mínimo 3 análises apenas numéricas;
+- Realizar plotagens para no mínimo 3 análises;
+- Chegar a uma conclusão de sua análise;
 
-### Non-mandatory requirements (optional):
-- Error handling for user inputs;
-- Any other code improvements that are not contrary to mandatory requirements;
+### Nivel Infra
+- O Dataset deve ser salvo em ambiente local  (Google Drive) - (bruto e tratado)
+- O Dataset deve ser salvo em ambiente cloud (Cloud Storage) - (bruto e tratado) (será mostrado em aula!)
+- O Arquivo original e tratado deve ser salvo em MongoDB Atlas em coleções diferentes (será mostrado em aula!)
 
-### Project resolution available in the file, in that same folder "Projeto02 - Python":
+### O que será analisado:
+- Pontualidade;
+- Organização de código;
+- Atendimento aos requisitos;
+- Capacidade de Pesquisa e Autonomia;
+- Aplicação da Estratégia Geral de Análise de Dados
+
+**Observação:** Em caso de algum(ns) itens não forem contemplados, realize a entrega do que foi concluído com justificativa. Em momento oportuno, solicitaremos acesso aos ambientes em nuvem do projeto.Observação: Em caso de algum(ns) itens não forem contemplados, realize a entrega do que foi concluído com justificativa. Em momento oportuno, solicitaremos acesso aos ambientes em nuvem do projeto.
+
+
+### Project resolution available in the file, in that same folder "Project03 - Airbnb":
 - Requirements: Python 3+ and Colab
 ```bash
 #File: 
@@ -57,7 +51,7 @@ In this project, the student must individually build a script in Python that rec
 - Run the script from the link below
 ```
 - *Link:*
-[Projeto02_Python](https://colab.research.google.com/drive/1uTDc1ksBklwluALeCJsT7YVwWEY5iGjE?usp=sharing)
+[Projeto03_Airbnb](https://colab.research.google.com/drive/1rdblcD10S53MsIwBeCbMwUnPVYdQzf0v?usp=sharing)
 
 
 
