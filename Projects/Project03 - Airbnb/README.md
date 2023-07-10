@@ -48,7 +48,7 @@
 - Requirements: Python 3+ and Colab
 ```bash
 #File: 
-"Project_.ipynb"
+"Projeto03_Airbnb.ipynb"
 
 #Options for running the script:
 - Clone this repository and run it with your preferred IDE
